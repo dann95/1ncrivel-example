@@ -1,0 +1,15 @@
+{
+    "name": "dann95/1ncrivel-example",
+    "authors": [
+        {
+            "name": "Daniel Rubin",
+            "email": "danielrubin95@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NoPing\\": "LIB/"
+        }
+    }
+}
